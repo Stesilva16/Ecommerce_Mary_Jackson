@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "yourdomain.com",
-    "maryjackson-e5a137c3c635.herokuapp.com",
+    "maryjacksonecommerce-ff9ce981928b.herokuapp.com",
     "127.0.0.1",
 ]
 
